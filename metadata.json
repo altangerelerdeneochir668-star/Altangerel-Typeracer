@@ -1,0 +1,6 @@
+{
+  "name": "Typeracer",
+  "description": "Хурдан бичих чадварыг шалгах сонирхолтой тоглоом. Текстээ хурдан, зөв шивж уралдаарай!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
